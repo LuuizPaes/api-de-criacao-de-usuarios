@@ -10,7 +10,7 @@ Esta é uma api de criação de usuarios utilizando Node.js,MongoDB, Express.
 
 
 ## mockup do projeto
-<img src="">
+<img src="https://github.com/LuuizPaes/api-de-criacao-de-usuarios/blob/main/assets/mockup-cadastro-usuarios.png?raw=true" alt="mockup-project">
 
 ## Autor
 
