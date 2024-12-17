@@ -1,6 +1,6 @@
 # API de criação de usuarios
 
-Esta é uma api de criação de usuarios utilizando Node.js,MongoDB, Express.
+Esta é uma api de criação de usuarios utilizando Node.js, MongoDB, Express.
 
 ## Funcionalidades
 - GET - Para consultar usuarios,
